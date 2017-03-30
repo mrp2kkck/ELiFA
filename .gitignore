@@ -1,6 +1,10 @@
 .classpath
 .project
 .settings/
-/bin
+/bin/clases/
+/bin/res/
+/bin/R.txt/
+/bin/AndroidManifest.xml
+/bin/jarlist.cache
 proguard-project.txt
 project.properties
